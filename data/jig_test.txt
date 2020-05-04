@@ -1,0 +1,1460 @@
+ingham Music Database
+S:Pauline Wilson, via Phil Rowe
+M:6/8
+K:G
+"G"d2d d^cd|e2B BAG|"C"E2E "Cm"_E2E|"G"D6|"Am"c2c "D7"cBA|
+"G"B2A G2B|"A7"A2G F2G|"D7"A6|"G"d2d d^cd|e2B BAG|
+"C"c2B c2d|e3 g2e|"G"d2d B2d|"C"e2d "G"B2G|"Am"E2G "D7"F2A|"G"G6||
+"C"c3 e3|g2g g2e|"G"d2e d2B|d6|"Am"A2^G A2B|"D7"c2d e2c|"G"B2^A B2c|"G7"d3 G3|
+"C"c3 e3|g2g g2e|"G"d2e d2B|"Em"e6|"Am"A2B "D7"c2e|"G"d2B "Em"g2e|
+"Am"d2B "D7"cBA|"G"G6||
+
+
+X: 240
+T:The Pleated Plaidie
+% Nottingham Music Database
+S:Dennis Salter, via Phil Rowe
+M:6/8
+K:A
+e2d |"A"c2e "E7"B2e|"A"A2A GFE|"D"F2A d2f|"E7"eBc dcB|"A"c2e "E7"B2e|
+"A"Ace a3|"B7"bfb agf|"E7"efe gfe|"A"c2e "E7"B2e|"A"A2A GFE|"D"F2A d2f|
+"E7"g3 efg|"A"a2a "D"agf|"A"efe ece|"Bm"f2f "E7"gfg|"A"a3 "A7"ag=g||
+"D"f2f def|"A"e2e c2c|"Bm"dcd "E7"fed|"A"c3 -c3|"Bm"Bcd "E7"fed|
+"A"c2e A2c|"B7"B^da gBf|"E7"e3 e2=f|"D"f2f def|"A"e2e cde|
+"Bm"d2c "B7"BcA|"E7"GA^A B2=c|"A"^c2e "E7"B2e|"A"Ace a2a|"B7"b2b "E7"gfe|
+"A"a3 ||
+
+
+X: 241
+T:Pop Goes the Wheezle
+% Nottingham Music Database
+S:Trad, via EF
+M:6/8
+K:G
+P:A
+D|"G"G2B "D7"A2c|"G"BdB "D7"G2D|"G"G2B "D7"ABc|"G"B3 "D7"G2D|"G"G2B "D7"A2c|
+"G"BdB G3|"C"e3 "D7"A2c|"G"B3 G3|"Em"g2f e2g|"D"faf d3|
+"Em"g2f efg|"Bm"f3 d3|"C"c2B c2d|"C"e2f g3|"G"g3 "D7"A2c|"G"B3 G2:|
+
+
+X: 242
+T:Portland Fancy
+% Nottingham Music Database
+P:ABCD
+S:FTB 2/48, via EF
+M:6/8
+K:A
+P:A
+E|"A"E2A E2A|"A"EAB c2c|"D"dcd "E7"Bcd|"A"e2c "D"BAF|
+"A"E2A E2A|"A"EAB c2c|"D"dcd "E7"cEG|"A"AEc Ace|
+P:B
+"A"a3 "D"agf|"A"ecf e3|"E7"dBe d3|"A"cde "D"f2e|"A"a3 "D"agf|
+"A"ecf e3|"E7"edB EFG|"A"AEc AFG|
+K:D
+"D"
+P:C
+ABc d2e|"D"f2g a3|"A7"efg AB/2c/2d/2e/2|"D"f2d "A7"AFG|
+K:D
+"D"ABc d2e|"D"f2g a3|"A7"efg ABc|"D"d3 -d3|"D"
+P:D
+|:F2A F2A|"D"FAd f3|"A"ece gec|"D"dfe "A7"d2(3c/2B/2A/2|
+"D"F2A F2A|"D"FAd f3|"A7"ece gec|"D"d3 -d3:|
+
+
+X: 243
+T:Princess Margaret
+% Nottingham Music Database
+S:Otto Wood, via EF
+M:6/8
+K:G
+D|"G"G2A BAG|"D7"F2A c2e|"G"d2B gfg|"D"baf d2d|"C"e2c gfe|
+"G"d2g B2d|"Am/c"c2B "A7/c+"A2G|"D7"F2A d2D|"G"G2A BAG|"D7"F2A c2e|"G"d2B gfg|
+"D"baf d2d|"C"e2c gfe|"G"d2g "Em"B2d|"Am"c2A "D7"def|"G"g3 g2g|
+"D7"f2g afd|"G"g2a b3|"C"c'2a "G/b"b2g|"Am"a2g "D"fed|"C"c2d edc|"G"B2c d3|
+"A7"^c2A a2g|"D7"fgf edc|"G"B2c dBG|"C"c2d e3|"A7"^c2d ecA|
+"D7"d2e f3|"G"gfg dcB|"Am"e^de cBA|"D7"ded cBA|"G"G3 G2||
+
+
+X: 244
+T:Quaker's Wife
+% Nottingham Music Database
+S:Sam Sherry via Marlene
+M:6/8
+K:G
+d|"G"gab d2b|"C"c'ba "D"bge|"G"gab "Em"deg|"D"aba a2d|
+"G"gab d2b|"C"c'ba "D"bge|"G"gab "D"d2e|"G"gdB G2:|
+g/2a/2|"G"bgg aga|"G"bgg age|"G"gab "Em"deg|"D"aba a2g/2a/2|
+"G"bgg aga|"G"bgg age|"G"gab "D"d2e|"G"gdB G2:|
+d|"G"ggg "D"aga|"Em"bge "D"dBG|"G"ggg gab|"D"aba a3|
+"Em"gag "D"fgf|"C"efe "D"dBA|"G"GAB "D"D2E|"C"GGG "Em"G2:|
+
+
+X: 245
+T:The Quaker's Wife
+% Nottingham Music Database
+S:EF
+M:6/8
+K:D
+P:A
+A|"D"def A2f|"G"g2f "A7"e2A|"D"def A2A|"G"B3 "A7"d2A|
+"D"def Adf|"G"agf "A7"e2A|"D"def AFA|"G"B3 "D"d2:|
+P:B
+A|"D"d2f a2f|"G"b2g "A7"a2f|"D"def agf|"D"f3 "D7"a3|"G"b2g "A7"efg|
+"D"a2f "Bm"d2A|"D"def AFA|"G"B3 "D"d2:|
+
+
+X: 246
+T:Queen Victoria
+% Nottingham Music Database
+S:Otto Wood, via EF
+M:6/8
+K:A
+P:A
+c/2d/2|"A"e2d cea|"D"g2f "A"e3|"F#m"cfe "Bm"d3|"E7"Bed "A"c2d|"A"e2d cea|
+"D"g2f "A"e3|"Bm"fBc "E7"dBe|"A"A3 -Aef|
+K:E
+"E"geg b2a|"E"gef g2b|
+"B7"b2f fga|"E"g2f "B7"eBe|"E"geg b2a|"E"gef g2b|"B7"b2f fgf|
+"E"e3 -ede|
+K:A
+"A"e2d cea|"D"g2f "A"e3|"F#m"cfe "Bm"d3|"E7"Bed "A"c2d|"A"e2d cea|
+"D"g2f "A"e3|"Bm"fBc "E7"dBe|"A"A3 -Ade|
+K:D
+"D"fAd f2a|"Em"g2f e3|"A7"ace a2b|
+"D"a2g "A7"f3|"D"fAd f2a|"G"gfg b3|"D"agf "A7"eBc|"D"d3 -d2||
+
+
+X: 247
+T:Queen's Fancy
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+"D"d2f a2f|"G"b2g "D"afd|"Bm"def "Em"g2e|"D"fed "A7"cBA|"G"B2d "D"A2d|
+"G"G2d "D"F2d|"E7"E2d "A7"cde|"D"d3 -d3::
+"A"e2c ABc|"D"d2e fed|"A"e2c ABc|"D"dAG FED|
+"A"e2c ABc|"D"d2e fed|"Em"gfe bag|"A7"fge "D"d3:|
+
+
+X: 248
+T:The Railway
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+D|"G"G2G GBd|g2d d2d|"Am"e2d c2B|"D7"ABG FED|
+"G"G2G GBd|"G"g2d d2d|"C"edc "G"BAG|"D7"A3 "G"G2::
+d|"G"b2b b2a|g2g g2d|"C"e2d efg|"D7"a2g fed|
+"Bm"bbb b2a|"Em"ggg g2d|"A7"efg "D7"agf|"G"g3 -g2:|
+
+
+X: 249
+T:Rake Maker's Jig
+% Nottingham Music Database
+S:Brian Jenkins, via Phil Rowe
+M:6/8
+K:G
+dc|"G"B2B B^AB|D3 -DGB|"G"deB deB|"Am"c3 -ccB|A2A A^GA|
+"D"F2F F2E|"D7"DFA de^A|"G"B3 -"D7"Bdc|"G"B2B B^AB|D3 -DGA|"G"B2B "G7"Bcd|
+"C"e3 -eef|"C#/dim"ge^c ^Agf|"G"edB Gfe|"A"dDc "D7"B2A|"G"G3 -"B7"GGF||
+"Em"E2E G2A|B3 -B2B|"Am"c2c "D7"cdA|"G"B3 -B2B|"Am"A2A "D"ABc|"Bm"d2B "Em"G2B|
+"A"A2g f2e|"D"d3 -"D7"ddc|"G"B2B B^AB|"G"D3 -DGB|"G"deB deB|
+"Am"c3 -ccB|"D7"A2A ABc|"Bm"d2B "Em"G2D|"Am"E2c "D7"B2A|"G"G3 -Gzz||
+
+
+X: 250
+T:Ralph Page Jig
+% Nottingham Music Database
+S:Ken Hillyer, via Phil Rowe
+M:6/8
+K:D
+"D"d3 "A"ABc|"D"d3 "A"ABc|"D"d2c d2f|a3 -agf|"G"g3 -gfe|"D"f3 -fed|
+"Em"e2g "A7"ABc|"D"d3 d3::
+"D"f3 d3|"D7"f^ef d3|"G"g2f "Em"e2d|"A"c2B A3|"D7"f3 d3|"Em"gfg g2^g|
+"A7"a2g f2e|"D"d3 d3:|
+
+
+X: 251
+T:Ran-Tan
+% Nottingham Music Database
+P:AABBCC
+S:Whitby 1989, via EF
+M:6/8
+K:A
+P:A
+|:e|"A"agf "E7"efg|"A"aga f2e|"D"fed "A"cde|"E7"dcB c2A|
+"A"agf "E7"efg|"A"aga f2e|"D"fed "A"cde|"E7"dcB "A"A2:|
+P:B
+|:B|"A"c2c ABc|"E"c2B -B2c|"D"d2d Bcd|"A"f2e -"E7"e2d|
+"A"c2c ABc|"E7"c2B -B2e|"E7"efe dcB|"A"A3 -A2:|
+K:Am
+P:C
+|:e|"Am"edc Bcd|"Dm"f2e -"Am"e2e|"Am"e2c d2c|"E7"cB2 B2d|
+"E7"dcB Bcd|"E7"fe2 e2e|"E7"efe dcB|"Am"A3 -A2:|
+
+
+X: 252
+T:Rattlebones
+% Nottingham Music Database
+S:Upton, via EF
+M:6/8
+K:G
+P:A
+d/2d/2|"G"dBB BAG|"D"AGA "Em"BGE|"G"DGG GBd|"C"edB "D"Add|
+"Em"dBB BAG|"D"AGA "Em"BGE|"G"DGG GAB|"D7"AGF "G"G2:|
+P:B
+B/2A/2|"G"GBd g2d|"C"edB "D7"BAG|"G"GBd g2d|"C"ed"c#"B "D"A2-"d#"A|
+"Em"GBd g2d|"G"edB ABd|"C"ege "G"dBG|"D7"AGA "G"G2:|
+
+
+X: 253
+T:Red Cigar
+% Nottingham Music Database
+S:Ralph Page, via EF
+M:6/8
+K:G
+P:A
+D|"G"GFG "D7/a"BAG|"G/b"dBd "C"g3|"G"d2e "Em"dcB|"A7"ABG "D7"FED|
+"G"GFG "D7/a"BAG|"G/b"dBd "C"g3|"G"d2e "Em"dcB|"D7"AGF "G"G2:|
+P:B
+d|"G"g3 "D"f3|"C"efg "G"dBG|"G"G2A Bdc|"Am"BAG "D"A3|
+"Em"g3 "Bm"f3|"C"efg "G"dBG|"C"cde "G"dcB|"D7"AGF "G"G2:|
+
+
+X: 254
+T:Red Leciester
+% Nottingham Music Database
+S:Chris Dewhurst 1980, via Phil Rowe
+M:6/8
+K:D
+"(A7)"F2G |"D"A3/2B/2A f2a|A3/2B/2A F2A|"D"f3/2e/2d faf|"Em"e3 e2f|
+"A"g3/2a/2g e2g|
+"A"c2e Ace|"Em"g3/2f/2g "A"bag|"D"f3 "A7"F2G|"D"A3/2B/2A f2a|A3/2B/2A F2A|
+"D"f3/2e/2d faf|
+"Em"e3 e2f|"A"g3/2a/2g e2g|"A"c2e A2B|"Em"c3/2B/2A "A7"GFE|"D"D3 Adf||
+"D"a3 f3|d2f A3|"D"A3/2d/2f agf|"Em"e3 e2f|"A"g3 e3|"A"c2e A3|
+"Em"g3/2f/2g "A"bag|"D"f3 "A"Adf|"D"a3 f3|d2f A3|"D7"A3/2B/2=c def|
+"G"g3 g2a|b2d d'3/2c'/2b|"D"a3/2f/2d "Bm"A2f|"Em"g3/2e/2c "A"ABc|"D"d3 ||
+
+
+X: 255
+T:Red Stocking
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:6/8
+K:G
+P:A
+(3D/2E/2F/2|"G"GBA G2B|"G"def "D7"gdB|"G"GBA G2B|"D7"AFD AFD|
+"G"GBA G2B|"G"def gfg|"C"ecA "G"dBG|"D7"FEF "G"G2:|
+P:B
+B/2d/2|"Em"efe edB|"Em"def gfg|"Em"efe edB|"D"dBA A2d|
+"Em"efe edB|"Em"def gfg|"C"ecA "G"dBG|"D7"FEF "G"G2:|
+
+
+X: 256
+T:Red Stocking
+% Nottingham Music Database
+S:Sam Sherry via Marlene
+M:6/8
+K:G
+|:d|"Em"gaa bge|"Em"gaa bge|"D"dBA ABA|"D"dBA Add|
+"Em"gaa bge|"Em"gaa bge|"G"dBG GAG|[1"G"dBG "D"Gd:|[2 "G"dBG "D"Gdd|
+"Em"efe edB|"Em"def gfe|"D"dBA ABA|"D"dBA Add|
+"Em"efe edB|"Em"def gfe|"G"dBG GAG|"G"dBG "D"Gdd:|
+"C"cec "G"BdB|"D"AGA "Em"BGE|"D"dBA ABA|"D"dBA Add|
+"C"cec "G"BdB|"D"AGA "Em"BGE|"G"dBG GAG|"G"dBG "D"Gdd:|
+
+
+X: 257
+T:Reg's Cigar
+% Nottingham Music Database
+S:Ralph Page, via Phil Rowe
+M:6/8
+K:G
+D|"G"GFG BAG|dBd g3|"D"d2e "G"dcB|"A7"ABG "D"FED|
+"G"GFG BAG|"G"dBd "Em"g3|"Am"d2e dcB|"D7"AGF "G"G2::
+B/2d/2|"G"g3 "D"f3|"C"efg "G"dBG|"G"G2A Bdc|"Am"BAG "D7"A2d|
+"Em"g3 "Bm"f3|"C"efg "G"dBG|"C"cde "G"dcB|"D7"AGF "G"G2:|
+
+
+X: 258
+T:Stool of Repentance
+% Nottingham Music Database
+S:KCC p20, via EF
+M:6/8
+K:G
+P:A
+d|:"G"g2d B2d|"C"gfe "G"dcB|"C"gee e2d|"C"ege "D7"e2d|
+"G"g2d B2d|"C"gfe "G"dcB|"C"c2d e2d|"C"egB "D7"A2G:|
+P:B
+"G"BGG dGG|"G"BGG dc"g#"B|"Am"cAA eAA|"Am"cAA "D7"edc|
+"G"BGG dGG|"G"BGG dcB|"C"c2d e2d|"C"egB "D7"A2G:|
+
+
+X: 259
+T:The Rocking Horse
+% Nottingham Music Database
+S:Chris Dewhurst 1978, via Phil Rowe
+M:6/8
+K:C
+"(G7)"E2D |"C"C2c "F"ABc|"C""e"GAG GFE|"F"F2A "C""e"GFE|"Dm"FEF "G"DED|
+"C"C2c "F"ABc|"C""e"GAG "Am"GFE|"Dm"DEF "G"GAB|"C"c3 :|
+cBc |"G"d2d dcd|"C"e2e "Am"ede|"Dm"f2f "G"def|"C"g3 "C7"efg|"F"a2a fga|
+"C""e"g2e "Am"cde|"Dm"fed cBA|"G7"G3 e2d|"C"c2c "C7"GA_B|"F"A2c FGA|
+"C""e"GEC "D7"CB,C|"G"D3 "G7"G2F|"C"E2G CDE|"F"F2A "Dm"Ddc|"G"BAG FED|"C"C3 ||
+
+
+X: 260
+T:Roddy Miller's Jig
+% Nottingham Music Database
+S:Bob McQuillen March 1977, via Phil Rowe
+M:6/8
+K:G
+B|"G"d2B d2B|ded BAG|"A7"ABA G2E|"D7"D3 -D2B|"G"d2B d2B|
+"G"ded BAG|"Em"EFG A2B|"A7"A3 -"D7"A2B|"G"d2B d2B|ded BAG|"D"ABA "C"G2E|
+"G"D3 -"G7"DB,D|"C"ECE GFE|"G"DGB d2d|"Am"edc "D7"B2A|"G"G3 -G2A||
+"Em"B2A "Bm"B2A|"Em"Bcd "Am"edc|"G"BcB "D""f#"AGF|"Em"E3 -"B7"E2A|"Em"B2A B2A|
+"Bm"Bcd "C"edc|
+"G"BcB "Am"ABc|"B7"B3 -B2d|"Em"ede "G"dBG|"Bm"AGF "Em"E2d|"C"ede "G"dBG|
+"Am"ABc "Bm"B2d|"C"ede "D"fef|"Em"gfg "D""f#"aga|"G"bag "Bm7"fed|"Em"e3 -e2||
+
+
+X: 261
+T:The Rogue's March
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+"G"B2B Bcd|"C"e2e e3|"G"d2d -d2e|"D"d2c B2A|"G"B2B Bcd|"C"e2e e3|"G"def gdB|
+"D7"A3 "G"G3::
+"G"g3 "D"f3|"C"e3 "D7"def|"G"g3 "D"f3|"C"e3 "D7"d2c|"G"B2B Bcd|"C"e2e e3|
+"G"def gdB|"D7"A3 "G"G3:|
+
+
+X: 262
+T:The Rollicking Irishman
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+A|"D"dAF DFA|"D"ded "A"cBA|"Em"dcd "A"efg|"D"fdf "A"ecA|
+"D"dAF DFA|"D"ded "A"cBA|"Em"dcd "A"efg|"D"fdd d2::
+e|"D"fdf fga|"A"ecA ABc|"Bm"dcd "E7"Bcd|"A"cAA A3|
+"G"BGB Bcd|"D"AFD "Bm"DFA|"Em"dcd "A7"efg|"D"fdd d2:|
+
+
+X: 263
+T:Rolling Off A Log
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:C
+ce|"C"g2^f "F"a2=f|"C"gec cBc|"G7"dBG GAB|"C"cd^d ef^f|
+"C"g2^f "F"a2=f|"C"gec cBc|"G7"dBG GAB| [1"C"cge c:|
+ [2"C"c2zc2z|:
+K:G
+"G"Bdg gfg|Bdg gfg|"D"fga agf|"D"age d^c=c|
+K:G
+"G"Bdg gfg|Bdg gfg|"D"fga agf| [1"G"g2z"D7"edc:|[2"G"g3 g||
+
+
+X: 264
+T:Rory O'More
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:A
+"A"eAA cAA|"A"eAA "D"f3|"A"edc cBA|"E"G2B Bcd|
+"A"eAA cAA|"A"ece "D"fed|"E"cee efg|"A"aec A3::
+"F#m"agf f2c|"Bm"dcB "F#m"A2G|"F#m"FGA ABc|"E"cfe efg|
+"F#m"agf f2c|"Bm"dcB "F#m"A2G|"F#m"FGA ABc|"E"cfe e3:|
+
+
+X: 265
+T:Rosin The Beau
+% Nottingham Music Database
+S:EF
+M:6/8
+K:G
+P:A
+D|"G"G2G BAG|"G"d3 "C"efg|"G"dBG GAB|"Em"E3 "D7"E2D|
+"G"G2G BAG|"G"d3 "C"efg|"G"dBG "D7"ABA|"G"G3 G2:|
+P:B
+d|"G"dBd def|"C"g2e g2e|"G"dBG GAB|"Em"E3 "D7"E2D|
+"G"G2G BAG|"G"d3 "C"efg|"G"dBG "D7"ABA|"G"G3 G2:|
+
+
+X: 266
+T:Rushwick
+% Nottingham Music Database
+S:Pauline Wilson, via Phil Rowe
+M:6/8
+K:G
+"G"G2F G2A|B2A B2c|"G"ded BAG|"D7"A6|A2^G A2B|"D7"A2F D2B|
+"A7"ABA EFG|"D7"F6|"G"G2F G2A|B2A B2c|"G7"ded BAG|
+"C"e6|"G"g2d e2B|"Am"dcB A2e|"D7"dcB AGF|"G"G6||
+"Em"E2B B2c|"Bm"B2A G2F|"Em"G2A "A7"B2^c|"D"d3 -d2^d|"Em"e2f g2e|"D"f2d d2f|
+"Em"e2B "Bm"B2d|"Em"e3 -e2f|"G"g2f e2d|B2d G2B|"C"c2B c2e|
+"Am"g3 -g2d|"G"g2d e2B|"Am"dcB A2e|"D7"dcB AGF|"G"G6||
+
+
+X: 267
+T:Saddle The Pony
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+"G"GBA G2B|"D7"def "G"gdB|GBA G2B|"D7"AFD AFD|
+"G"GBA G2B|"D7"def "Em"gfg|"C"ege "D7"dBA|"G"BGG G3::
+"Em"efe edB|"D"def "G"gfg|"Em"efe edB|"Bm"dBA ABd|
+"Em"efe edB|"D"def "G"gfg|"C"ege "D7"dBA|"G"BGG G3:|
+
+
+X: 268
+T:Sailor's Wife
+% Nottingham Music Database
+S:EF
+M:6/8
+K:Dm
+P:A
+F/2E/2|"Dm"DEF E2D|"Dm"d2e f2g|"F"agf "C/e"edc|"F"AcA "C/e"GEC|
+"Dm"DEF "A7"E2D|"Dm"d2e "Dm/f"f2g|"Gm"agf "A7"ed^c|"Dm"d3 d2:|
+P:B
+d/2e/2|"F"fga fga|"F"fga agf|"C"ecg ecg|"C"ecg gfe|
+"Dm"fga agf|"C"efg gfe|"Dm"def "A7"ed^c|"Dm"d3 d2:|
+
+
+X: 269
+T:Sally Hunter
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+A|"D"DFA d2A|"G"B2A "D"d2A|"G"Bcd "Em"egf|"A7"efd cBA|
+"D"DFA d2A|"G"B2A Bcd|"Em"egf "A7"edc|"D"d3 -d2:|
+g|"D"fed "A"g2e|"D"a2f "G"b2g|"D"fef def|"A7"efd cBA|"D"fed "A"g2e|
+"D"a2f "G"b2g|"D"fga "A7"Adc|"D"d3 -d2g|"D"fed "A"g2e|"D"a2f "G"b2g|"D"fef def
+|
+"A7"efd cBA|"D"AFA d2A|"G"B2A Bcd|"Em"egf "A7"edc|"D"d3 -d2||
+
+
+X: 270
+T:A Pinch Of Saltire
+% Nottingham Music Database
+S:Dennis Salter, via Phil Rowe
+M:6/8
+K:A
+e|"A"A2A ABc|"Bm"dB2 "E7"e2d|"A"c2A AGA|"C"=GEE "E7"^GEE|
+"A"A2A ABc|"Bm"dfe "E7"B2d|"A"cBA "G"B=G2|"A"A3 -A2:|
+c|"D"d2d def|"A"e2d c3|"Bm"d2c "E7"B3|"A7"cd^d ecA|"D"d2d def|"A"e2d c3|
+"B7"BaB gBf|"E7"efd cdB|"A"ecA "A7"ecA|"D"dff "E7"egg|"A"aec aec|
+"C"=ge=c "E7"^ged|"A"c2c cBA|"D"df2 "E7"eg2|"A"ace "E7"efg|"A"a3 -a2||
+
+
+X: 271
+T:Colonel Sanders' March
+% Nottingham Music Database
+S:Bob McQuillen April 1976, via Phil Rowe
+M:6/8
+K:G
+D|"G"G2G "D7"AGF|"G"G2B "D7"G2A|"G"B2B "D7"cBA|"G"B2c "D7"BBc|"G"d2g "D7"dBc|
+"G"d2g "D7"d2c|"G"BAG GFG|"D7"A2F DEF|"G"G2G "D7"AGF|"G"G2B "D7"G2A|
+"G"B2B "D7"cBA|
+"G"B2c "D7"BBc|"G"d2g "D7"dBc|"G"d2g "D7"d2c|"G"BAG "D7"AGF|"G"G3 -G2A||
+"G"B2B "D7"cBA|"G"B2G DBc|"D"d2d "A"ed^c|"D"d2B "G7"GBd|"C"e2d efg|
+"G"d2c Bcd|"Am"e2d "D7"c2B|"G"BAG "D"FED|"G"B2B "D7"cBA|"G"B2G DBc|
+"D"d2d "A"ed^c|"D"d2B "G7"GBd|"C"e2d efg|"G"d2B G2g|"D7"fed cBA|"G"G3 -G2||
+
+
+X: 272
+T:Sarah's Jig
+% Nottingham Music Database
+S:Bob McQuillan, via Phil Rowe
+M:6/8
+K:D
+"D"DEF "A"EFG|"D"F2D DFG|"D"AFA "G"B2c|"D"d3 -d2A|"G"Bcd dcB|
+"D"A2d AFG|"D"A2d "Bm"AGF|"Em"E2F "A7"GFE|"D"DEF "A"EFG|"D"F2D DFG|
+"D"AFA "G"B2c|"D"d3 -"A"d2e|"D"fgf "A"efe|"Bm"ded "F#m"cBA|"G"Bcd "A7"ecA|
+"D"d3 -d3
+|:"D"fgf fed|"A"ecA Ade|"D"fgf fed|"A7"ecA A2G|
+"D"FGA "G"GAB|"A"ABc "G"dcB|"Em"Agf "A7"edc|"D"d3 -d3:|
+
+
+X: 273
+T:Scollys
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+A|"D"dfe d2A|"D"dfe d2A|"D"d2A d2f|a6|"G"gfg bag|
+"D"fed A2f|"Em"efe dcB|"A7"ABA GFE|"D"dfe d2A|"D"dfe d2A|
+"D"d2A d2f|a6|"G"gfg bag|"D"fed A2F|"Em"GAB "A7"ABc|"D"d3 ||
+f2g |"D"afd AFA|"D"afd AFA|"D"agf "G"bag|"D"afd AFA|
+"A7"gec Ace|"A7"gfe "B7"b2a|"Em"gfe dcB|"A"ABA "A7"GFE|
+"D"afd AFA|"D"afd AFA|"D"agf "G"bag|"D"afd AFA|
+"G"GFG BAG|"D"FAd fag|"Em"fed "A7"Adc|d3 -d2||
+
+
+X: 274
+T:Scotsbroome Jig
+% Nottingham Music Database
+S:Mike Richardson 16.12.89, via Phil Rowe
+M:6/8
+K:D
+A3 |"D"d2e fed|"G"BGB "D"A2A|"D"d2e "Bm"fga|"Em"agf "A"e2
+P:3
+=f|"D"fed AFA|"G"BGB "D"A2A|"D"d2d "A"edc|"D"d3 ::
+DFA |"C"=c3 "G"B3|"D"ABA F2D|"A"EFG GFE|
+"D"DFA d2A|"G"B3 B3|"D"ABA F2D|"A"EFG GFE|"D"D3 :|
+
+
+X: 275
+T:Scottish Reform
+% Nottingham Music Database
+P:AAB
+S:Kevin Briggs, via EF
+M:6/8
+K:D
+P:A
+|:F/2G/2|"D"ABA AFA|"D"d2d "G"dcB|"D"ABA "Bm"AGF|"Em"EGF "A7"EFG|
+"D"ABA AFA|"D"d2d def|"G"gfg "A7"eag|"D"fdd d2:|
+P:B
+f/2g/2|"D"afd def|"G"gba "A7"gfe|"D"afd "Em"g2f|"A7"ecA A2f/2g/2|
+"D"afd def|"G"gba "A7"gfe|"G"gfg "A7"eag|"D"fdd "A7"dfg|
+"D"afd def|"G"gba "A7"gfe|"D"afd "Em"g2f|"A7"ecA ABc|
+"D"dfd "A"ecA|"G"BdB "D"AFD|"G"GFG "A7"EAG|"D"FDD D2|
+
+
+X: 276
+T:Scrabble On Sunday ?
+% Nottingham Music Database
+S:John Goodacre 1984, via Phil Rowe
+M:6/8
+K:Em
+"Em"E2G E2G|"Em"BAG "D"FGA|"Em"E2G E2G|"Em"BAF "G"G3|
+"C"E2G E2G|"Bm"BAG FGA|"D"FAF "Em"EGE|"Bm"F2D "Em"E3::
+"Bm"B2F B2F|"Bm"dcB "A"AcA|"Bm"B2F B2F|"Bm"dcB "F#m"A3|
+"Bm"B2F B2F|"Bm"dcB "A"AcA|"Bm"dcB "F#m"AGF|"Em"EGA B3:|
+
+
+X: 277
+T:Northern Hospitality Jig or Seamus Plagiarism
+% Nottingham Music Database
+S:Mike Richardson 16.12.89, via Phil Rowe
+M:6/8
+K:C
+"C"cGE FED|"C"CEC "G"DB,G,|"C"CEG "Am"ceg|"Dm"fdc "G"BAB|
+"C"cGE FED|"C"CEC "G"DB,G,|"C"CEG ceg|"G"fdB "C"c3::
+"Am"ABc cBA|"E"^G2E "Am"A2E|"Dm"FED DEF|"Am"E2C A,2C|
+"E"B,CD DCB,| [1"Am"A,CE ABc|"E"B2^G "B"^FGF|"E"E3 E2^G:|
+ [2"Am"A,CE Ace|"F"fed "E"c2B|"Am"A3 "G"G3||
+
+
+X: 278
+T:I Do Like To Be Beside The Seaside
+% Nottingham Music Database
+S:Toby Bennett, via EF
+M:6/8
+K:C
+g2^g |"C"a3 g2e|"C"d2c B2c|"G7"g3 g3|"G7"g3 g2^g|"C"a3 g2e|"C"d2c B2c|"F"a3 a3
+|
+"F"a3 a2^a|"G7"b3 a2f|"G7"e2d ^c2d|"C"a3 g3|"C"f3 e2^d|"D7"e3 d3|"D7"e3 d^cd|
+"G7"e3 d3|"G7"B3 g2^g|
+"C"a3 g2e|"C"d2c B2c|"G7"g3 g3|"G7"g3 g2^g|"C"a3 g2e|"C"d2c B2c|"F"a3 a3|
+"F"a3 a2^a|
+"F#7"b2^a b2a|"B7"b3 a2f|"Em"a2g a2g|"A7"a2g f2e|"D7"d3 a3|"G7"a2e d2e|
+"C"c3 c3|c3 ||
+
+
+X: 279
+T:The Self
+% Nottingham Music Database
+P:AABA last time
+S:FTB 1/41, via EF
+M:6/8
+K:G
+P:A
+|:B/2c/2|"G"d^cd BGB|"D7"cBc AFD|"G"DGG "D7"FGA|"G"BGB "D7"ABc|
+"G"d^cd "Em"BGB|"Am"cBc "D7"AFD|"G"DGG "D7"FGA|"G"BGG G2:|
+P:B
+|:B/2d/2|"C"gfe "G"dBd|"Am"ecA "G"Bcd|"Am"ecA "G"dBG|"A7"GAG "D"AFD|
+"C"gfe "G"dBd|"Am"ecA "G"Bcd|"C"efg "Am"fag|"D"fdd d2:|
+
+
+X: 280
+T:Seven Stars
+% Nottingham Music Database
+S:Thomas Hardy Collection via Yetties, via Phil Rowe
+M:6/8
+K:D
+"D"d2A A2F|"G"GAB "D"A3|"G"Bcd "A"efg|"D"fed "A"cBA|
+"D"d2A A2F|"G"GAB "D"A3|"G"Bcd "Em"efg| [1"A"Adc "D"d3:|[2"A"Adc "D"d2
+|:f|"A"e2A A2f|"A"efg "D"f3|"A"efg "D"fed|"A"cec A3|
+"G"BGB "D"AFA|"G"BGB "D"AFA|"G"Bcd "Em"efg|"A7"Adc "D"d2:|
+
+
+X: 281
+T:Sgiandubh
+% Nottingham Music Database
+S:Ms L Dolman, via EF
+M:6/8
+K:Em
+G/2F/2|"Em"E2e e2B|"G"dBd "D"AFD|"Em"E2e e2B|"C"efg "Bm7"f2e|
+"Em"E2e e2B|"G"dBd "D"AFD|"G"G3 "B7"A3|"Em"BGE E2
+:: A|"Em"B2E EFG|"D"FED AFD|"Em"B2E EFG|"G"BcA "Em"BGE|
+"Em"B2E EFG|"D"FED AFD|"G"GAB "D"AGF|"Em"BGE E2A||
+"Em"B2E EFG|"D"FED AFD|"Em"B2E EFG|"G"BcA "Em"BGE|
+"G"BdB "D"AdG|"D"FAd AFD|"G"GAB "D"FGA|"Em"BGE E2:|
+
+
+X: 282
+T:Shafters Shindig
+% Nottingham Music Database
+S:Chris Dewhurst 1979, via Phil Rowe
+M:6/8
+K:A
+"(E7)"e2d |"A"cec A2c|"E"BdB G2B|"A"Ace "D"agf|"A"e3 "E"e2d|"A"cec A2c|
+"E"BeB G2A|"F#m"B2B "B7"AGF|"E"E3 "E7"e2d|"A"cec A2c|"E"BdB G2B|"A"Ace "D"agf|
+"A"e3 -e2c|"Bm"dfd BdB|FBF DEF|"E"G2B EFG|"A"A3 -A2E||
+"A"c3 -c2E|c3 -c2E|"A"c2c edc|"Bm"B3 -B2E|"E"B3 -B2E|"E"B3 -B2c|
+"Bm"d2e "E"fed|"A"c3 -c2E|c3 -c2e|"A"A3 -Ace|"A7"=g2g gfe|
+"D"f3 a3|"Dm"=faf d2f|"A"eae c2e|"Bm"gfe "E"dcB|"A"A3 -A2||
+
+
+X: 283
+T:Shafters Shindig
+% Nottingham Music Database
+S:Chris Dewhurst 1979, via Phil Rowe
+M:6/8
+K:A
+"(E7)"e2d |"A"cec A2c|"E"BdB G2B|"A"Ace "D"agf|"A"e3 "E"e2d|"A"cec A2c|
+"E"BeB G2A|"F#m"B2B "B7"AGF|"E"E3 "E7"e2d|"A"cec A2c|"E"BdB G2B|"A"Ace "D"agf|
+"A"e3 -e2c|"Bm"dfd BdB|FBF DEF|"E"G2B EFG|"A"A3 -A2E||
+"A"c3 -c2E|c3 -c2E|"A"c2c edc|"Bm"B3 -B2E|"E"B3 -B2E|"E"B3 -B2c|
+"Bm"d2e "E"fed|"A"c3 -c2E|c3 -c2e|"A"A3 -Ace|"A7"=g2g gfe|
+"D"f3 a3|"Dm"=faf d2f|"A"eae c2e|"Bm"gfe "E"dcB|"A"A3 -A2||
+
+
+X: 284
+T:Shandon Bells
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:6/8
+K:D
+P:A
+B|"D"AFD DFA|"D"ded "A"cBA|"Em"BGE EGA|"Em"B2A "A7"Bcd|
+"D"AFD DFA|"D"ded "A"cBA|"Em"Bcd "A7"ecA|"D"d3 d2:|
+P:B
+g|"D"f2d ded|"D"faa afd|"A"cAA eAA|"A"cAc "A7"efg|
+"D"f2d ded|"D"faa afd|"G"Bcd "A7"ecA|"D"d3 d2:|
+
+
+X: 285
+T:Shane's Fancy
+% Nottingham Music Database
+S:NPTB, via EF
+M:6/8
+K:G
+P:A
+d|"G"G2G d2d|"C"efg "D7"f2(3d/2e/2f/2|"G"g2g "C"c2e|"G"dBG "D7"FED|
+"G"G2G d2d|"C"efg "D7"f2(3d/2e/2f/2|"G"g2g "C"c2e|"G"dBG G2:|
+P:B
+g/2a/2|"G"b3 ga"c#"b|"D"a3 de"d#"f|"Em"g3 efg|"Bm"f3 Bcd|"C"e2g "G/b"d2g|
+"D/a"c2g "G"B2g|"Em"BAG "C"DGE|"G"G3 G2:|
+
+
+X: 286
+T:Sheards of Foula
+% Nottingham Music Database
+S:Peter Kennedy, via EF
+M:6/8
+K:G
+P:A
+D|"G"G2G G2B|"C"edB "D"A2B|"Em"G2G G2A|"Em"BAG "D7"E2D|
+"G"G2G G2B|"C"edB "D"A2B|"Em"G2G GAB|"Bm"d3 d2:|
+P:B
+d|"D7"def "G"g2d|"C"edB "D"A2B|"Em"G2G G2A|"Em"BAG E3|
+"D7"def "G"g2d|"C"edB "D"A2B|"Em"G2G GAB|"Bm"d3 d2:|
+
+
+X: 287
+T:The Old Horned Sheep or The Humours Of Donnybrook
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+(3d/2e/2f/2|"G"g2G GFG|"C"EGG "G"DGG|"G"g2G GFG|"A7"EAG "D7"FED|
+"G"g2G GFG|"C"EGG "G"DGG|"C"EGG "D7"FGA| [1"G"BGG G2:|
+ [2"G"BGG G2D|:"G"Bdd dBG|Bdd d2G|"G"Bdd dBG|"Am"cBc "D7"A2c|
+"G"Bdd dBG|"G"Bdd "D7"def|"Em"gfe dcB|"Am"ABG "D7"FED:|
+
+
+X: 288
+T:Shetland Boston
+% Nottingham Music Database
+S:Geoff Bocking, via EF
+M:6/8
+K:D
+P:A
+f/2g/2|"D"aba "A7/e"a2f|"D/f+"ded "G"d2B|"D"ABA A2F|"Em"A3 "A7"Afg|
+"D"aba "A7/e"a2f|
+"D/f+"ded "G"d2B|"D"ABA Adf|"Em"e3 "A7"efg|"D"aba "A7/e"a2f|"D/f+"ded "G"d2B|
+"D"ABA A2F|"D"A3 "D7"A3|"G"Bcd dcB|"D"Adf "Bm"a2a|"Em"bag "A7"f2e|
+"D"d3 A2F|"D"D3 DFA|"D/f+"d3 d2c|"G"B^AB d2B|"A7"ABA GFE|"D"D3 DFA|
+"Bm"d3 d2c|"Em"BcB A2F|"A7"E3 F2E|"D"D3 DFA|"D/f+"d3 d2c|"G"B^AB d2B|
+"D7"A3 A3|"G"Bcd dcB|"D"Adf "Bm"a2a|"Em"bag "A7"f2e|"D"d3 d2||
+
+
+X: 289
+T:New Rigged Ship
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+A|"D"dcd d2f|dcd d2f|"A"ecA Ace|ecA ABc|
+"D"dcd d2f|"D"dcd "A"ecA|"G"Bcd "A7"edc|"D"d3 -d2::
+f/2g/2|"D"a2f a2f|"Bm"ded dfa|"Em"b2g b2g|"A7"efe efg|
+"D"a2f a2f|"Bm"def "D"d2f|"A7"ecA ABc|"D"d3 -d2:|
+
+
+X: 290
+T:Silver Roses For June
+% Nottingham Music Database
+S:Chris Dewhurst 1983, via Phil Rowe
+M:6/8
+K:D
+"A7"d2e |"D"fed A2d|"G"B2d "D"A2d|"G"Bcd "D""f#"Ade|"E7"faf "A"e3|
+"D"fed A2d|"G"B2d "D""f#"A2d|"Em"B2d "A7"cde|"D"d3 ::
+"D"ded |"A"cde A2e|"D"d2f A2f|"E7"e^de ef^g|
+"A"a3 f2g|"D"aba fed|"G"c2B g2B|"D""a"A2d "A"cde|"D"d3 :|
+
+
+X: 291
+T:Sir Watkin's Jigg
+% Nottingham Music Database
+S:Johnson 1750 (John Lagden), via EF
+M:6/8
+K:G
+P:A
+d|"C"efg "D"afd|"Em"g3 "Bm"d3|"C"ecc "G"dBB|"D"cAA "G"G3|
+"G"DGA B2G|"G"DGA B2G|"G"Bcd "C"c2B|"D"A3 -A2:|
+P:B
+A|"D"FGA AFD|"D"A3 "G"d3|"D"AFF "A7"GEE|"D"D3 zG/2A/2B/2c/2|
+"G"d3 GA/2B/2c/2d/2|
+"Am"e3 AB/2c/2d/2e/2|"Bm"f3 Bc/2d/2e/2f/2|"Em"g3 "D"d2c|"G"BGG "D7"cAA|
+"G"G3 -G2:|
+
+
+X: 292
+T:Slashers
+% Nottingham Music Database
+S:FTB, via EF
+M:6/8
+K:D
+P:A
+A|"D"ded dAF|"Em"ABA "A7"ABc|"D"ded dAF|"Em"Eee "A7"e2f|
+"D"ded dAF|"Em"ABA "A7"Aag|"D"fef "G"dBA|"D"Bdd d2:|
+P:B
+A|"D"dfa afd|"A7"cde ecA|"D"dfa afd|"D"faa "A7"a2A|
+"D"dfa afd|"A7"cde eag|"D"fef "G"dBA|"D"Bdd d2:|
+
+
+X: 293
+T:Smash the Windows
+% Nottingham Music Database
+P:AAB
+S:EF
+M:6/8
+K:D
+P:A
+|:A|"D"DED F2A|"D"d2f "A"ecA|"G"G2B "D/f+"F2A|"Em"E2F "A7"GFE|
+"D"DED "c#"F2A|"Bm"d2f "A"ecA|"G"Bgf "A7"edc|"D"d3 d2:|
+P:B
+|f/2g/2|"D"a2f d2f|"D"A2a ag"d#"f|"Em"g2e c2e|"A7"A2g gfe|"D"f2d "A7/e"g2e|
+"D/f+"a2f "G"bag|
+"D/a"fed "A7"edc|"D"d3 "A7"dfg|"D"agf fed|"D"Adf agf|"Em"gfe edc|
+"A7"Ace gfe|"D"fed "A7/e"gfe|"D/f+"agf "G"bag|"D/a"fed "A7"edc|"D"d3 d2|
+
+
+X: 294
+T:Soldiers Dance
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:6/8
+K:A
+P:A
+E|"A"A2A AGA|"E7"B2B e2c|"A"A2A AGA|"Bm"GBG "E7"EFG|
+"A"A2A AGA|"E"B2B e2d|"F#m"cBA "E7"BAG|"A"A3 A2:|
+P:B
+c/2d/2|"A"e2e cde|"D"f2f f3|"E7"g2g efg|"A"ace "D"agf|
+"A"efe cde|"D"fga agf|"A/e"edc "E7"BAG|"A"A3 A2:|
+
+
+X: 295
+T:Solomon Levi
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:C
+E2F |"C"G2G G2G|G2G G2G|"F"A2A A2A|A3 -A2A|"G"B2B B2B|B2B B2A| [1"C"A2G G2A|
+G3 :|
+ [2"G"G2G A2B|"C"c3 -c3||"E7"e3 Bcd|"Am"c3 A3|"E7"efe dcB|"Am"A6|"D7"d3 ABc|
+"G"B3 G3|"D7"ded cBA|"G7"GAG FED|"C"G2G G2G|G2G G2G|
+"F"A2A A2A|A3 -A2A|"G"B2B B2B|B2B B2A|"G"G2G A2B|"C"c3 ||
+
+
+X: 296
+T:The Spaceman
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+D|"G"d2^c d2B|"D7"c2B c2A|"G"B2^A B2G|"D"A2F D2D|"C"E2G 
+%P:3
+c2e|"G"d2B "C"G2c|"G"B2G "D7"A2F|"G"G3 G2D|"G"dBG DGB|dBG d3|"D7"
+%P:3
+A2^G A2G|A2F D3|"G"dBG DGB|dBG d3|"C"E2A "D"D2F|"G"G3 "G7"G3||
+"C"ecG EGc|ecG e3|"G"dBG DGB|dBG d3|
+"A7"^cAG EGA|^c2A B2c|"D"d3 "A7"^c3|"D7"c3 A3|"G"dBG DGB|
+dBG d3|"D7"A2^G A2G|A2F D3|"G"dBG DGB|dBG d3|"Am"
+%P:3
+c2B "D"A2B|"G"G3 -G2||
+
+
+X: 297
+T:Spencefield Lane
+% Nottingham Music Database
+S:Chris Dewhurst 1980, via Phil Rowe
+M:6/8
+K:Am
+E|"Am"e2d cBc|A2E A^GA|"E"B2E B^GB|efe dcB|
+"Am"A2B cBc|"Dm"d2e g2f|"Am"e2A "E"AB^G|"Am"A3 -A2::
+A|"A"e2A A^ce|"Dm"f2e d2c|"G"B2G GBd|"C"e2d c2B|
+"F"A2F Ace|"Dm"d2c BAB|"Am""e"c2A "E"AB^G|"Am"A3 -A2:|
+
+
+X: 298
+T:Spider Island
+% Nottingham Music Database
+S:JP/AFJC Jerry Robichaud, via EF
+M:6/8
+K:D
+P:A
+F/2G/2|"D"ABA FAd|"D"f2d "A7"AFG|"D"ABA FAd|"A"c3 cAB|"A"c2c cBA|
+"Em"g2g gfe|"A7"c2c cBA|"D"f3 "A7"fFG|"D"ABA FAd|"D"f2d "A7"AFG|
+"D"ABA FAd|"A"c3 cAB|"A"c2c cBA|"Em"g/2a/2g/2f/2g eAB|"A7"ceg fce|
+"D"d3 d2d|"D"ded c2d|"D"b2a "A7"f2d|"D"ded "Bm"c2B|"Em"g3 gAB|"A"c2c cBA|
+"Em"g2g gfe|"A7"c2c cBA|"D"f3 -"A7"f2A|"D"ded c2d|"D"b2a "A7"f2d|
+"D"ded "Bm"c2B|
+"Em"g3 gAB|"A"c2c cBA|"Em"g/2a/2g/2f/2g cAB|"A7"ceg f2e|"D"d3 d2:|
+
+
+X: 299
+T:Sprig of Shillelah
+% Nottingham Music Database
+S:KCC p21, via EF
+M:6/8
+K:G
+P:A
+D|"G"DGG GFG|"D7"AcB AGF|"G"Gdd "G7"dcB|"C"AcB "D7"AGF|"G"GAB "C"EFG|
+"D7"DEF "G"G2:|
+P:B
+G|"G"BGB dBd|"C"ece "D7"d2c|"G"BGB dBd|"C"ece "D7"d2c|"G"BBB BAG|
+"D7"AcB AGF|"G"Gdd "G7"dcB|"C"AcB "D7"AGF|"G"GAB "C"EFG|"D7"DEF "G"G2:|
+
+
+X: 300
+T:Come Up The Back Stairs
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+D|"G"D2B B2A|AGF G2d|"D"d2F FEF|"G"A2G GFE|
+D2B B2A|"G"AGF G2d|"D"d2F FEF|"G"G3 -G2::
+g|"G"gfg bge|edB d3|"G"gfg "Em"bge|"G"edB "D7"d3|
+"G"g2g gab|"C"e2e efg|"D7"d2d def|"G"agf g2:|
+
+
+X: 301
+T:Starry Night for a Ramble
+% Nottingham Music Database
+P:AABA
+S:EF
+M:6/8
+K:D
+P:A
+|g| !segno!"D"f2d A2F|"G"G3 B2B|"D"A2d "E7"c2d|"A7"e3 efg|
+"D"fed A2F|"G"G2A BcB| "D"A2d "A7"c2e|"D"d3 d2:|
+P:B
+e/2f/2|"G"g2g gfe|"D"f2f fed|"Em"e2e efg|"A"a3 a2f|
+"G"gag gfe|"D"fgf fed|"Em"efe efg|"A7"a3
+P:D.S
+ g2||
+
+
+X: 302
+T:Steamboat Quickstep
+% Nottingham Music Database
+S:Lesley Dolman, via EF
+M:6/8
+K:A
+P:A
+e|"A"a2e c2A|"A"Ace a3|"D"agf "A"edc|"Bm"Bcd "E7"cBA|
+"A"a2e c2A|"A"Ace a3|"D"agf "A"edc|"E7"edB "A"A2:|
+P:B
+B|"A"c2e efe|"A"efe c2A|"D"d2f fga|"D"fga "E7"f2e|
+"A"c2e efe|"A"efe c2A|"D"agf "A"edc|"E7"edB "A"A2:|
+
+
+X: 303
+T:The Stone Court
+% Nottingham Music Database
+S:RSCDS 23, via EF
+M:6/8
+K:D
+A|"D"d2d "A7"edc|"D"d2A F2A|"D"d2d "A7"edc|"D"d3 d2d|"A7"e2A ABA|
+"D"f2A ABA|"A"c2e "E7"B2e|"A7"A3 ABc|"D"d2d "A7"edc|"D"d2A F2A|
+"D"d2d "A7"edc|"D"d3 "D7"d2f|"G"g2e "A7"Beg|"D"f2d "Bm"A2F|"Em"ABA "A7"GFE|
+"D"D3 "A7"A3|
+"D"AFA d2F|"G"GFG "A7"E2G|"D"FAd f2F|"A"A3 -A2"ab"A|"G"B2B Bcd|
+"D"A2F d2F|"A"E2A "E7"^GAB|"A"A3 "A7"A2A|"D"AFA d2F|"G"GFG "A7"E2G|"D"F2A d2e|
+"D7"f3 f2f|"G"g2e "A7"Beg|"D"f2d "Bm"A2F|"Em"ABA "A7"ABc|"D"d3 d2||
+
+
+X: 304
+T:Stratfield Saye
+% Nottingham Music Database
+S:Pauline Wilson, via Phil Rowe
+M:6/8
+K:G
+"G"g2d e2B|"D7"d2G AGA|"G"B3 d3-|"D7"d6|"G"g2d e2B|"G"d2G AGF|"Em"E6|e6|
+"Am"a2e f2c|"Em"e2A BAB|"Am"c3 e3-|e3 c2B|"A7"A2B ^c2e|a2f efe|"D7"d6-|d6||
+"G"g2d e2B|"D7"d2G AGA|"G"B3 d3-|d3 B2A|"G7"G2A B2d|"G7"g2e dBG|"C"A6-|A3 A3|
+"Am"e2d e2f|"D7"a2g f2e|"G"ded B2d|"E"f3 -f2e|"Am"A2B c2d|"D7"e2g fga|"G"g6-|
+g6||
+
+
+X: 305
+T:Summer Lightning
+% Nottingham Music Database
+S:John Goodacre 1984, via Phil Rowe
+M:6/8
+K:D
+"A7"F2E F2G|"D"A2G F3|"A7"F2E F2G|"Em"E3 -"A7"E3|"A7"F2E F2G|"D"A2G F3|
+"A7"EGE C2E|"D"D3 -D3::
+"A7"GcG cGc|"D"ABc dAF|"A7"GcG cGc|"A7"ABc "D"d3|
+"A7"GcG cGc|"D"ABc dAF|"Em"BGE "D"AFD| [1"A7"GEC "D"F3:|[2"A7"GEc "D"d3||
+
+
+X: 306
+T:Swallowtail
+% Nottingham Music Database
+S:EF
+M:6/8
+K:Em
+P:A
+E/2F/2|"Em"GEE BEE|"Em"GEE BAG|"D"FDD ADD|"D"d^cd AGF|
+"Em"GEE BEE|"Em"GEE B2^c|"D"d^cd AGF|"Em"GEE E2:|
+P:B
+B|"Bm"B^cd "Em"e2f|"Em"e2f edB|"Bm"B^cd "Em"e2f|"Em"edB "D"d3|
+"Bm"B^cd "Em"e2f|"Em"e2f edB|"D"d^cd AGF|"Em"GEE E2:|
+
+
+X: 307
+T:Sweets of May
+% Nottingham Music Database
+P:AABBCC
+S:Kevin Briggs, via EF
+M:6/8
+K:G
+P:A
+|:d/2c/2|"G"B2G "D7"AFD|"G"GAG "D7"Gdc|"G"B2G GAB|"C"cBc "D7"d2c|
+"G"B2G "D7"AFD|"G"GAG "D7"Gdc|"G"B2G "D7"AFD|"G"G3 -G2:|
+P:B
+|:A|"Am"ABA A2G|"Em"E2F G2"E"^G|"Am"ABA c2d|"Dm"e2d "E7"c2B|
+"Am"ABA A2G|"Em"E2F G2"E"^G|"Am"A2A "G"BAG|"Am"A3 -A2:|
+P:C
+|:(3A/2B/2c/2|"D"d3 dcd|"D"D3 DED|"Am"c3 cBc|"D7"D3 DEF|"G"G2D "D7/a"G2A|
+"G/b"B2G "C"B2c|"D7"d2D DEF|"G"G3 -G2:|
+
+
+X: 308
+T:Swimming In The Gutter
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:Gm
+(3A/2B/2^c/2|:"Dm"d3 AFA|d3 AFA|"Dm"d^cd fed|"Gm"eba "A7"gfe|
+"Dm"d3 AFA|d3 AFA|"Gm"def "A7"gag| [1"Dm"fdd d3:|
+ [2"Dm"fdd "C7"d
+P:3
+cB|:"F"Ac
+P:3
+f fef|ac'a fcf|"Bb"dbd "F"cac|"Gm"Bag "C7"ecB|
+"F"Acf fef|ac'a fcf|"Bb"dbd "F"cac| [1"C7"ede "F"fcB:|[2"C7"ede "F"f3||
+
+
+X: 309
+T:Swine Jig
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+dc|"G"B2d GAB|"C"c2e "D7"ABc|"G"B2d BAG|"D7"A3 -Adc|
+"G"B2d GAB|"C"c2e gfe|"A7"e2d ^cde|"D"d3 -d::
+gf|"C"e2c e2c|"C"cde "G"d3|Bcd c2B|"D7"A3 -Adc|
+"G"B2d GAB|"C"c2e "Am"ABc|"D"B2c "D7"ABA|"G"G3 -G:|
+
+
+X: 310
+T:The Sylph
+% Nottingham Music Database
+S:FTB, via EF
+M:6/8
+K:D
+B|"D"AFA dfa|"D"agf "A7"e2g|"D"fag fed|"A7"cde e2A|
+"D"AFA dfa|"D"agf "A7"efg|"D"fad "A7"eac|"D"ded d2:|
+E|"D"DFA "G"dcB|"D"AGF E2D|"D"FAD FAD|"Em"EFE "A7"EFG|
+"D"DFA "G"dcB|"G"BAG "A7"FED|"D"fad "A7"eac|"D"ded d2:|
+
+
+X: 311
+T:Tam's Hunting Horn
+% Nottingham Music Database
+S:AA, via EF
+M:6/8
+K:C
+P:A
+|:(3G/2G/2G/2|"C"ceG ceG|"C"c2e g2g|"F"a2a "C"g2e|"Dm"d3 -d2G|
+"G"BdG BdG|"G7"B2d f2f|"G7"g2f e2d| [1"C"e3 "G7"e2:|[2"C"c3 c2|
+P:B
+|:d/2c/2|"G7"BGG d2B|"C"cGG e2c|"F"fcA cfa|
+"G7"g3 -g2G|"C"gec gec|"C"G2c cdc|"G7"B2G GBd|"C"c3 c2:|
+
+
+X: 312
+T:Down the Tannoch Road
+% Nottingham Music Database
+S:AA, via EF
+M:6/8
+K:D
+P:A
+d|"D"AFG A2d|"G"c2B B2B|"A7"BEF G2c|"D"B2A "A7"A2A|
+"D"AFG A2d|"Em"e2B Bed|"A7"c2B ABc|"D"d3 d2:|
+P:B
+e|"D"f2d Adf|"Em"g2e "A7"Ace|"D"f2d Adf|"E7"efd "A7"cBA|
+"D"f2d Adf|"Em"g2e "A7"Ace|"D"faf "A7"gec|"D"edd d2:|
+
+
+X: 313
+T:Scarce O' Tatties
+% Nottingham Music Database
+S:MacLeod, via Phil Rowe
+M:6/8
+K:Am
+"Am"Aee efg|"Em"edB dBG|"Am"Aee efg|"Em"edB "Am"A3|
+"Am"aAA "G"gAA|"F#m"fAA "Em"eAA|"Am"Aee efg|"Em"edB "Am"A3::
+"Am"aeg a2e|"Em"g2f "Am"eAA|"Am"aeg a2e|"Em"g2f e3|
+"Am"eee A2A|"D"dff fee|"Am"Aee efg|"Em"edB "Am"A3:|
+
+
+X: 314
+T:Tenpenny Bit
+% Nottingham Music Database
+S:EF
+M:6/8
+K:Am
+P:A
+c/2d/2|"Am"eAA eAA|"G"BAB GBd|"Am"eAA eAA|"G"de^f gfg|
+"Am"eAA eAA|"G"BAB GBd|"C""Am"de^f "G/b""G"gBB|"Am""F"BAA A2:|
+P:B
+B|"Am"A2a aga|"G"bge dBG|"Am""F"A2a aga|"G"bge g3|
+"Am"A2a aga|"G"bge dBd|"C""F"edB "G/b""F"gBB|"Am""G"BAA A2:|
+
+
+X: 315
+T:Terry Teehan's
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+"Em"e3 B2A|GFE B2E|"D"FED A2A|d2D A2D|"Em"e3 B2A|GFE B2E|"D"FED F2A|"Em"F2E E3
+:|
+"Em"B2e ede|"D"f2a afa|"Bm"baf a2f|"D"e2d B2A|"Em"B2e ede|
+"D"f2a afa|"Bm"baf a2f|"Em"e3 e2d|"Em"B2e ede|"D"f2a afa|"Bm"baf a2f|
+"D"e2d B2A|"D"faf f2e|"Bm"ded B2A|"D"FED F2A|"Em"F2E E3||
+
+
+X: 316
+T:Teviot Bridge
+% Nottingham Music Database
+P:AAB
+S:Athole p 134, via EF
+M:6/8
+K:A
+P:A
+|:f|"A"ecA E2A|"D"F2A "A"E2A|"A"EFE E2c|"Bm"d2c "E7"B2f|
+"A"ecA E2A|"D"F2A "A"E2c|"D"d2f "A"ecA|"E7"B3 "A"A2:|
+P:B
+|f|"A"ecA Ace|"D"fgf fga|"A"ecA AcA|"E7"BGE E2f|
+"A"ecA Ace|"D"agf "A"edc|"D"d2f "A"ecA|"E7"B3 "A"A2f|
+"A"ecA Ace|"D"fgf fga|"A"ecA AcA|"E7"BGE E2f|
+"A"ece "D"fdf|"D"agf "A"edc|"D"dfa "A"ecA|"E7"B3 "A"A2||
+
+
+X: 317
+T:The Wonder
+% Nottingham Music Database
+S:Jimmy MacKay, via EF
+M:6/8
+K:A
+P:A
+E|"A"AAA cAA|"D"dBB "A"cAa|"A"efe edc|"Bm"cBB "E7"B2E|
+"A"AAA cAA|"D"dBB "A"cAa|"D"efe "E7"e2d|"A"cAA A2:|
+P:B
+e|"A"eee "D"fga|"A"eee "D"fga|"A"efe edc|"Bm"Bbb "E7"b3|
+"A"eee "D"fga|"A"eee "D"fga|"A"efe "E7"e2d|"A"cAA A2:|
+
+
+X: 318
+T:Thursday Night
+% Nottingham Music Database
+S:EF
+M:6/8
+K:A
+P:A
+E|"A"A2E A2c|"A"e2e ece|"D"fga "A/c+"e2c|"Bm"e3 "E"ef"eb"g|
+"D"agf d2f|"A"fec A2e|"Bm"efe "E7"dcB|"A"A3 A2:|
+P:B
+(3A/2c/2e/2|"A"a2e g2e|"A"fec "E7"Ace|"A"a2e g2e|"Bm"fec "E7"B3|
+"A""C#m"a2e g2e|"A"fec Acd|"Bm"efe "E7"dcB|"A"A3 A2:|
+
+
+X: 319
+T:Tobin's Favourite
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+FE|"D"D3/2F/2A d3/2c/2d|"A7"e3/2c/2A c3/2d/2e|"D"f3/2e/2f "G"g3/2f/2g|
+"A"e3/2c/2A "A7"G3/2F/2E|
+"D"D3/2F/2A d3/2c/2d|"A7"e3/2c/2A c3/2d/2e|"D"f/2g/2af "A7"g3/2e/2c|
+"A7"e3/2d/2c "D"d::
+fe|"D"d3/2f/2a a3/2g/2f|"A"e/2f/2ge "A7"e3/2f/2g|"D"f3/2e/2f "G"g3/2f/2g|
+"A"e3/2c/2A "A7"G3/2F/2E|
+"D"D3/2F/2A d3/2c/2d|"A7"e3/2c/2A c3/2d/2e|"D"f/2g/2af "A7"g3/2e/2c|
+"A7"e3/2d/2c "D"d:|
+
+
+X: 320
+T:Tripping Upstairs
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+A|:"D"FAA "G"GBB|"D"FAd fed|"A7"cBc ABc|"D"dfe "G"dcB|
+"D"FAA "G"GBB|"D"FAd fed|"A7"cBc ABc|"D"dfe d3::
+"Bm"dBB fBB|dBd fed|"A"cAA eAA|cBc edc|
+"Bm"dBB fBB|dBd fed|"A7"cBc ABc|"D"dfe d3:|
+
+
+X: 321
+T:Turnpike Side
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+A|"D"d2d "A"c2A|"G"BdB "D"AGF|"G"G2e "D"F2d|"Em"E2d "A"cBc|
+"D"d2d "A"c2A|"G"BdB "D"AGF|"Em"G2e "D"F2d|"A"cBc "D"d2::
+A|"D"d2f a2b|afd a2f|"A"A2c e2f|ecA e2c|
+"D"d2f a2b|"D"afd "Bm"a2f|"Em"gbg "D"faf|"A"edc "D"d2:|
+
+
+X: 322
+T:Wakefield Hunt
+% Nottingham Music Database
+S:Thompson 1779, via Phil Rowe
+M:6/8
+K:G
+B2c |:"G"d3 B2c|dBG E2D|"C"EFG "G"D2B|"Am"c2B "D7"A2G|
+"G"d3 B2c|dBG E2D|"C"EFG "G"D2c|"D7"BcA "G"G3::
+"G"dBG "Am"ecA|"G"dBG E2D|"C"EFG "G"D2B|"Am"c2B "D7"A2G|
+"G"dBG "Am"ecA|"G"dBG E2D|"C"EFG "G"D2c|"D7"BcA "G"G3::
+"G"D2D "C"E2E|"G"D2B c2B|"Am"Ace "G"dBG|"D7"F2G A3|"G"D2D "C"E2E|"G"D2B c2B|
+"Am"Ace dec|"D7"BcA "G"G3:|
+
+
+X: 323
+T:Walking To Heel
+% Nottingham Music Database
+S:John Goodacre 1985, via Phil Rowe
+M:6/8
+K:D
+"D"d2A -"A7"A2F-|"D"F2E D3|"D"DEF "A7"E2D|"D"DEF "A7"E2B/2c/2|"D"d2A -"A7"A2F-
+|"D"F2E D3|"Em"EFG "A7"F2E|"D"D3 D3::
+"D"A3 "A7"G3|"D"FGF "A7"E3|"D"A2G FGA|"G"B2G -GFE|"D"A3 "A7"G3|"D"FGF "A7"E3|
+"Em"B2G -"A7"GEC|"D"D3 D3:|
+
+
+X: 324
+T:The Wandle
+% Nottingham Music Database
+S:Pauline Wilson, via Phil Rowe
+M:6/8
+K:G
+"G"d2B "Em"e2B||"G"ded BGE|D6|"Am"c2A "D"d2B|"Am"c2A "D"d2B|"A7"A^GA B2^c|
+"D7"d6|
+|"G"ded BGE|D6|"Am"c2A "D"d2B|"Am"c2A d2c|"G"BdB "Em"G2B|"Am"ABA "D7"DEF|"G"G6
+||
+"C"g3 -g2f|g2f efe|"G"d2e d2c|B3 -B2B|"Am"c2d c2B|"D7"A3 -A2A|"G"d2e d2B|
+"G7"G3 -GBd|
+"C"g3 -g2f|g2f efe|"G"d2e d2c|"G"B6|"Am"cdc A2B|"D7"c2d e2f|"G"g2d "D7"B2d|
+"G"G6||
+
+
+X: 325
+T:Jig from the Water Music
+% Nottingham Music Database
+P:AABBCCDD
+S:G F Handel, via EF
+M:6/8
+K:G
+P:A
+|:D|"G"G2B "D7"A2c|"G"Bcd "D7"G2A|"G"Bcd "C"cde|"D"d3 d2d|
+"C"e2A "D7"ABc|"G"d2G GAB|"C"cdc "G"BAB|"D"A3 A2:|
+P:B
+|:A|"Am"A2A A2B|"Am"cde A2c|"Am"e2e "D7"e2f|"G"g2G "D7"G2A|
+"G"BAG "C"c3-|"Am"cBA "D7"d2c|"G"BcB "D7"AGA|"G"G3 G2:|
+K:Bb
+P:C
+|:d|"Gm"g2G g2G|"Gm"gab g2f|"Cm"edc "D7"BcA|"Gm"Bcd GAB|
+"Cm"cde "F"ABc|"Bb"F2b "Eb"a2g|"Cm"fed "F7"cBc|"Bb"B3 B2:|
+P:D
+|:f|"Bb"b2B b2B|"F"ABc F2d|"Gm"g2G g2G|"D7"^FGA D2d|
+"Cm"edc "Gm"BAG|"D"^f=ef "Cm"g=f_e|"D7"dcB AGA|"Gm"G3 G2:|
+
+
+X: 326
+T:The Weaver and His Wife
+% Nottingham Music Database
+S:AA, via EF
+M:6/8
+K:A
+P:A
+F|:"A"E2E EAB|"A"c3 A3|"A"c3 A2c|"Bm"edc "E7"B3|"E7"E2E EBc|
+"E7"d3 B3|"E7"E2e dcB|1"A"ABA "E7"AGF:|2"A"A3 A3||
+P:B
+"A"EAc e3|"A"EAe c3|"A"EAc edc|"Bm"d3 -dBc|
+"E7"ded BdB|"E7""F#m"G3 "D""Bm"F3|"E7"E2e dcB|1"A"ABA "E7"AGF:|2"A"A3 A2||
+
+
+X: 327
+T:The Weaver and His Wife
+% Nottingham Music Database
+%P:AAB
+S:Andrew Rankine, via EF
+M:6/8
+K:A
+P:A
+|:E|"A"E2E EAB|"A"c3 A3|"A"c3 A2c|"F#m"edc "Bm"B3|"E7"E2E EBc|"E7"d3 B3|
+"E7"E2e dcB| [1"A"A3 A2:|[2"A"A3 -A2G/2F/2|
+P:B
+|"A"EAc e3|"A"EAe c3|"A"EAc edc|"E"d3 -d2c/2d/2|"E"ded BdB|
+"E"G3 F3|"E"E2e dcB|"A"A3 -"E7"A2G/2F/2|"A"EAc e3|"A"EAe c3|"A"EAc edc|
+"E"d3 -d2c/2d/2|"E"ded BdB|"F#m"G3 "Bm"F3|"E7"E2e dcB|"A"A3 -A2||
+
+
+X: 328
+T:Wellington's Advance
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:Am
+E|"Am"E "3" AA A^GA|cBA c2d|"C"efe e^fg|"G"d "3" BG G^FG|
+"Am"EAA A^GA|"Am"cBA c2d|"E7"efe d "3" cB|"Am"cAA A2::(3e/2^f/2g/2|
+"Am"a "3" ee aee|a "3" ed c "3" BA|"G" "3" BAB g^fe|d "3" BG G^FG|
+"Am"eaa a^ga|"C"egg g^fg|"E7"efe d "3" cB|"Am"cAA A2:|
+
+
+X: 329
+T:When Daylight Shines
+% Nottingham Music Database
+%P:AABBCC
+S:Kevin Briggs, via EF
+M:6/8
+K:G
+P:A
+|:d|"G"gfe dcB|"D7"d2c A2B|"Am"cBc "D7"e2d|"G"B3 GBd|
+"G"gfe dcB|"D7"d2c A2B|"Am"cBc "D7"e2F|"G"G3 -G2:|
+P:B
+|:D|"G"G2A B2c|"G"d3 B2d|"C"e2d "D7"c2d|"G"B3 G2D|"G"G2A B2c|"G"d3 g2g|
+"D7"fed cBA|"G"G3 -G2:|
+P:C
+|:d|"G"dcB BAG|"D7"F2A e2c|"G"ded "D7"c2d|"G"B3 GBd|
+"G"dcB BAG|"D7"F2A e2c|"Em"d2B "D7"dcA|"G"G3 -G2:|
+
+
+X: 330
+T:Irish Whiskey
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+B|"G"G3 "C"g2e|"G"dBG "D"AFD|"G"G3 "C"g2e|"G"dBG "D"A2B|
+"G"G3 "C"g2e|"G"dBG GAB|"C"cde "G"dcB|"D7"cBA "G"G2::
+B|"Em"eBe gbg|eBe gbg|"Em"eBe "Bm"g2a|"Em"bag "D"agf|
+eBe gbg|"Em"eBe "Bm"g2a|"Em"bag "D"agf| [1"Em"e3 -e2:|[2"Em"e3 "D7"d2||
+
+
+X: 331
+T:Whitby Workshop
+% Nottingham Music Database
+S:Gordon Tyrall via Jacquie \\& Ellen
+M:6/8
+K:Am
+"Am"ABA e2d|e^fg e2d|"G"B2G GBG|"G"dBG "E7"B2e|
+"Am"ABA e2d|e^fg e2d|e2d g2"G"G|"Am"BAA A3||
+"Am"aba g2e|edg e2d|"G"B2G GBG|"G"dBG B2d|
+gag e2d|"G"dBg "E7"e2d|e2d g2"G"G|"Am"BAA A3||
+"Am"AAA eAe|"Am"AgA eAd|"G"B2G GBG|"G"dBG G2e|
+"Am"AAA eAe|"Am"AgA eAd|e2d g2"G"G|"Am"BAA A3||
+"Am"a2a "Em"egg|"D"^fdd e2f|"G"g2g egg|"Am"e2A "G"BGG|
+"Am"AAA eAe|"Am"AgA eAd|e2d g2"G"G|"Am"BAA A3||
+
+
+X: 332
+T:Whose
+% Nottingham Music Database
+S:Country Dance Manual, via EF
+M:6/8
+K:G
+P:A
+(3D/2E/2F/2|"G"G2G "D7"FEF|"G"G3 D2D|"C"E2E c2B|"D"A3 A2D|"C"E2c cBc|
+"G"d2B "Em"G2E|"Am"D2c "D7"B2A|"G"G3 G2:|
+P:B
+B/2c/2|"G"d2d ded|"A7"^c3 A2B|"D7"c2c cdc|"G"B3 Bcd|"C"e2c "D7"Ace|
+"G"d2B "Em"G2E|"Am"D2c "D7"B2A|"G"G3 G2:|
+
+
+X: 333
+T:Wideford Hill
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:A
+E|"A"A,B,A, C2E|"D"DED F2A|"A"EFE "E7"A2B|"A"c3 "A7"ABc|"D"d2F A2d|
+"A"c2E A2c|"B7"BcB AGF|"E7"EFE DCB,|"A"A,B,A, C2E|"D"DED F2A|
+"A"EFE "E7"A2B|"A"c3 "A7"ABc|"D"d2F A2d|"A"c2E A2c|"E7"B2E G2B|"A"A3 -A2e||
+"A"a2e "D"faf|"A"e2c ABc|"E7"d2B "A"cec|"E7"B2G E2e|"A"a2e "D"faf|
+"A"e2c "F#m"ABc|"E7"d2E G2B|"A"A3 A2e|"A"a2e "D"faf|"A"e2c ABc|"Bm"d2B "A"cec|
+"E7"B2G E3|"D"FGA "E"GAB|"F#m"Aag "E7"fed|"A"cAc "E7"BGB|"A"A3 -A2||
+
+
+X: 334
+T:The Widow Magee
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+D|"G"GAG "C"g2e|"G"dBG A2G|"Am"E2A ABc|"Am"BAG "D7"E2D|
+"G"GAG "C"g2e|"G"dBG Bcd|"C"efg "G"dBd|"D7"cBA "G"G2:|
+d|"C"e2e "G"d2B|"Em"g2g "Bm"f2d|"Em"gag "Bm"f2d|"A7"e3 "D7"d2d|"C"e2e "G"d2B|
+"Em"g2g "Bm"f2d|
+"Em"g2g "A7"f2e|"D7"ded cBA|"G"GAG "C"g2e|"G"dBG A2G|"Am"E2A ABc|
+"Am"BAG "D7"E2D|"G"GAG "C"g2e|"G"dBG Bcd|"C"efg "G"dBd|"D7"cBA "G"G2||
+
+
+X: 335
+T:My Wife's A Wanton Wee Thing
+% Nottingham Music Database
+S:For Pat's Tradition, via Phil Rowe
+M:6/8
+K:D
+f/2e/2|"D"d2A dfe|d3 A2B|"C"=cdc cGE|=c3 E2^c|
+"D"d2A dfe|"D"d3 "A7"A2G|"D"FDF "C"E=CE|"D"D3 -D2::
+F/2G/2|"D"ABA FDF|"Am"A3 =c3|"C"G=cG ECE|"G"G3 B3|
+"D"AdA FDF|"D"A3 "A7"g3|"D"fdf "A7"ece|"D"d3 -d2f/2g/2||
+"D"aba fdf|aba fdf|"C"gag e=ce|gag e=ce|
+"D"aba fdf|"D"aba "G"gab|"D"fga "A7"gec|"D"d3 -d2:|
+
+
+X: 336
+T:Cleveland Park
+% Nottingham Music Database
+S:Wolfstone, Arr EF/HJF
+P:Unacc
+M:6/8
+K:Dm
+Ade fed|Bde fed|=Bde fed|ege fed|
+Ade fed|Bde fed|ege c2g|gfe dz2:|
+dfa d'af|gab afd|Bdf Adf|fed ^cde|
+dfa d'af|gab afd|Bdf Aef|ed^c dz2|
+dfa d'af|gab afd|Bdf Adf|fed ^cde|
+Ade fed|Bde fed|ege c2g|gfe dz2||
+
+
+X: 337
+T:Banks of the Allan
+% Nottingham Music Database
+S:Wolfstone, Arr EF/HJF
+M:6/8
+K:D
+"D"F3 "A7/e"FED|"D/f+"FAA A2d|"G"Bdd "D/f+"Add|"G"Bdd "A7"Add|
+"D"F3 "A7/e"FED|"D/f+"FAA A2d|"G"BdB "D/f+"AFD|"Em"FEE "A"E3:|
+"D"f3 "c#"fed|"Bm"faa "A"a2f|"D/g"fgf "f#"fed|"Em"gbb "A7"bag|
+"D"fga "A/c+"eff|"Bm"dff fed|"G"BdB "D/f+"AFD|"Em"FEE "A"E3:|
+
+
+X: 338
+T:Kenny Gilles of Portnalong
+% Nottingham Music Database
+S:Wolfstone, Arr EF/HJF
+%P:AABCCD
+M:6/8
+K:A
+P:A
+|:"A"A3 e2c|"A"efa f2e|"D"faa "A"AAA|"D"fec "E"cBB|
+"A""F#m"A3 e2c|"A"efa f2e|"D"eff "A"fec|"E"BAA "A"A3:|
+P:B
+"A"a3 AAA|"A"cea fee|"D"faa "A"AAA|"D"fec "E"cBB|"A"a3 AAA|
+"A"cea fee|"D"eff "A"fec|"E"BAA "A"A3|"A"a3 AAA|"A"cea fee|"D"faa "A"AAA|
+"D"fec "E"cBB|"F#m"A3 e2c|"A"efa f2e|"D"eff "A"fec|"E"BAA "A"A3|
+P:C
+|:"A"AAA cBc|"A"AeA fee|"D"faa "A"AAA|"D"fec "E"cBB|
+"A""F#m"AAA cBc|"A"AeA fee|"D"eff "A"fec|"E"BAA "A"A3:|
+P:D
+"A"c2e aga|"A"Ace fee|"D"faa "A"AAA|"D"fec "E"cBB|
+"A"c2e aga|"A"Ace fee|"D"eff "A"fec|"E"BAA "A"A3|
+"A"c2e aga|"A"Ace fee|"D"faa "A"AAA|"D"fec "E"cBB|
+"F#m"AAA cBc|"A"AeA fee|"D"eff "A"fec|"E"BAA "A"A2||
+
+
+X: 339
+T:Art Wooten's Quadrille
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:Bb
+B,|"Bb"B,DF BAB|"Bb"BdB "F7"F2E|"Bb"DFB "D7"AcB|"G7"G3 -"Cm"GcB|"F7"AFA cAc|
+e2c A2G|"F7"FAc ed^c|"Bb"d3 "F7"d2B,|"Bb"B,DF BAB|"Bb"BdB "F7"F2E|
+"Bb"DFB "D7"AcB|
+"Eb"G3 -GcB|"F7"AFA cAc|e2c A2G|"F7"FAc ecA|"Bb"B3 B2f||
+"Eb"g2g/2^f/2 "E/dim"g2g/2=e/2|"Bb""f"fdB "F7"F2E|"Bb"DFB "Bb7"AcB|"Eb"G3 -G3|
+"Cm"g3 g2a|
+gec A2G|"F7"FAc edc|"Bb7"d3 -d2f|"Eb"g2g/2^f/2 "E/dim"g2g/2=e/2|
+"Bb""f"fdB "F7"F2E|
+"Bb7"DFB "D7"AcB|"Eb"G3 -G3|"Cm"g3 g2a|gec A2G|"F7"FAc ecA|"Bb"B3 -B3||
+
+
+X: 340
+T:Christmas Day in da Morning
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+"D"f2d f3|"A"e2d c2A|"G"B2G d2c|BG2 G3|"A"e2f g2f|e2d c2B|
+"A"ABA ABc|"D"d3 d2e|"D"fa2 a3|"A"e2d c2A|"G"B2G d2c|
+BG2 G3|"A"e2f g2f|e2d c2B|"A"ABA ABc|"D"d3 d3
+|:"Em"e3 (4edef|g3 B3|"D"A2A A2A|B2=c d2B|"Em"e3 (4edef|g3 B3|"D"A2e dB2|
+"Am"A3 A3:|
+}
