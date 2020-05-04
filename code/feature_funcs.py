@@ -80,7 +80,7 @@ def create_training2(char_nums, num_samples, str_length):
     return x_data, y_data
 
 
-def create_training3(char_nums, str_length):
+def create_training3(char_nums, str_length, vocab_size):
     '''Create training dataset with x and y values from your numeric list.
     The x data is a list of all numeric sequences, and the y data is the next character.'''
     
@@ -92,6 +92,10 @@ def create_training3(char_nums, str_length):
         x_data = np.vstack((x_data, np.array(char_nums[i:i+str_length])))
         y_data.append(char_nums[i+str_length])
     
-    #return x_data, y_data
-    return x_data, y_data
+    # Convert x and y data to tensors
+    x = to_categorical(x_data, num_classes=vocab_size)
+    y = to_categorical(y_data, num_classes=vocab_size)
+    
+    return x, y
+
 
