@@ -14,10 +14,10 @@ def create_dictionaries(text_data):
     vocab = list(set(char_list))
     
     # Dictionary with character to integer
-    vocab_dict = {i: j for i,j in enumerate(char_list)}
+    vocab_dict = {i: j for i,j in enumerate(vocab)}
     
     # Dictionary with integer to character
-    vocab_dict_rev = {j: i for i,j in enumerate(char_list)}
+    vocab_dict_rev = {j: i for i,j in enumerate(vocab)}
         
     return vocab_dict, vocab_dict_rev
 
@@ -36,8 +36,9 @@ def decoder(binary_matrix, dictionary):
     '''Convert numeric list a text string.'''
     text_list = []
     
-    for i in range(len(numeric_data)):
-        text_list.append(dictionary[numeric_data[i]])
+    for row in binary_matrix:
+        max_ind = np.argmax(row)
+        text_list.append(dictionary[max_ind])
     
     return "".join(text_list)
 
@@ -59,3 +60,38 @@ def create_training(char_nums, num_samples, str_length):
     
     #return x_data, y_data
     return x_data, y_data
+
+
+def create_training2(char_nums, num_samples, str_length):
+    '''Create training dataset with x and y values from your numeric list.
+    The x data is a list of numeric sequences, and the y data is the next character.'''
+    # Get starting indices of the random samples for your training batch
+    start_indices = sample(char_nums[0:(len(char_nums)-str_length-1)], num_samples)
+    
+    # The x_values begin at the starting indices and are str_length characters long
+    # The y_values begin one character into the x_values and end one character longer than x_values
+    x_data = np.array(char_nums[0:str_length])
+    y_data = [char_nums[str_length]]
+    for i in range(1,num_samples):
+        x_data = np.vstack((x_data, np.array(char_nums[i:i+str_length])))
+        y_data.append(char_nums[i+str_length])
+    
+    #return x_data, y_data
+    return x_data, y_data
+
+
+def create_training3(char_nums, str_length):
+    '''Create training dataset with x and y values from your numeric list.
+    The x data is a list of all numeric sequences, and the y data is the next character.'''
+    
+    # The x_values begin at the starting indices and are str_length characters long
+    # The y_values are one character after the end of the x_values
+    x_data = np.array(char_nums[0:str_length])
+    y_data = [char_nums[str_length]]
+    for i in range(1, len(char_nums)-str_length):
+        x_data = np.vstack((x_data, np.array(char_nums[i:i+str_length])))
+        y_data.append(char_nums[i+str_length])
+    
+    #return x_data, y_data
+    return x_data, y_data
+
